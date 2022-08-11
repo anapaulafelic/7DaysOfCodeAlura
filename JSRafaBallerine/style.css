@@ -1,0 +1,37 @@
+body {
+  background: #ffffff;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.SevenDaysJS p {
+  line-height: 1.1;
+}
+
+.SevenDaysJS .code {
+  margin: 15px auto;
+  padding: 15px;
+  background: #a8a8a8;
+}
+
+.SevenDaysJS .code:first-of-type {
+  margin-top: 35px;
+}
+
+.SevenDaysJS h1 {
+  background-color: rgb(249, 255, 0)!important;
+  padding: 0px 20px 0px 10px;
+  color: black!important;
+}
+
+.SevenDaysJS h2 {
+  background-color: rgb(57, 246, 235) !important;
+  padding: 0px 20px 0px 10px;
+  color: black!important;
+}
+
